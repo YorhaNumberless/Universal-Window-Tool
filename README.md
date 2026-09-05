@@ -138,5 +138,3 @@ Entirely optional and never required to use the tool.
 ## Credits
 
 Developed by **YoRHa Numberless**.
-
-Other projects: https://www.nexusmods.com/profile/YoRHaNumberless/mods
